@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Paleta Personalizada: Slate & Gold / Amber -->
+    <color name="slate_dark">#1E293B</color>
+    <color name="slate_primary">#0F172A</color>
+    <color name="slate_secondary">#334155</color>
+    <color name="slate_light">#F8FAFC</color>
+
+    <color name="gold_amber">#F59E0B</color>
+    <color name="gold_light">#FEF3C7</color>
+    <color name="gold_dark">#D97706</color>
+
+    <color name="accent_blue">#3B82F6</color>
+    <color name="accent_blue_light">#EFF6FF</color>
+
+    <color name="status_success">#10B981</color>
+    <color name="status_warning">#F59E0B</color>
+    <color name="status_error">#EF4444</color>
+
+    <color name="surface_card">#FFFFFF</color>
+    <color name="border_color">#E2E8F0</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

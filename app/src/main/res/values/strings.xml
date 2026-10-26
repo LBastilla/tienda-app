@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tienda Virtual</string>
+    <string name="app_slogan">Tu mercado digital universitario</string>
+
+    <!-- Auth -->
+    <string name="title_login">Iniciar Sesión</string>
+    <string name="label_username">Correo o Usuario</string>
+    <string name="label_password">Contraseña</string>
+    <string name="btn_login">Ingresar</string>
+    <string name="btn_biometric">Ingresar con Huella / Biometría</string>
+    <string name="btn_forgot_password">¿Olvidaste tu contraseña?</string>
+    <string name="title_recovery">Recuperar Contraseña</string>
+    <string name="desc_recovery">Ingresa tu correo registrado para enviarte las instrucciones de restablecimiento.</string>
+    <string name="btn_send_recovery">Enviar enlace de recuperación</string>
+    <string name="btn_back_to_login">Volver al Inicio de Sesión</string>
+
+    <!-- Roles -->
+    <string name="role_admin">Administrador</string>
+    <string name="role_seller">Vendedor</string>
+    <string name="role_buyer">Comprador</string>
+
+    <!-- Admin -->
+    <string name="nav_admin_dashboard">Panel de Control</string>
+    <string name="nav_user_management">Gestión de Usuarios</string>
+    <string name="nav_admin_products">Catálogo General</string>
+
+    <!-- Seller -->
+    <string name="nav_seller_products">Mis Productos</string>
+    <string name="nav_order_history">Pedidos Recibidos</string>
+    <string name="nav_seller_profile">Perfil de Tienda</string>
+
+    <!-- Buyer -->
+    <string name="nav_home">Inicio</string>
+    <string name="nav_catalog">Catálogo</string>
+    <string name="nav_cart">Carrito</string>
+    <string name="nav_profile">Mi Perfil</string>
+
+    <!-- General UI -->
+    <string name="btn_add_to_cart">Agregar al Carrito</string>
+    <string name="btn_checkout">Proceder al Pago</string>
+    <string name="btn_save">Guardar</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_delete">Eliminar</string>
+    <string name="btn_edit">Editar</string>
+    <string name="msg_order_success">¡Pedido realizado con éxito!</string>
+</resources>
